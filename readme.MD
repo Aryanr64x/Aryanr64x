@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Aryan Saket]
+# 👋 Hello, I'm Aryan Saket
 
 Full Stack Web and Mobile Developer 🚀
 
