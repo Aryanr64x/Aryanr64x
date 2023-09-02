@@ -26,6 +26,10 @@ Welcome to my GitHub profile! I'm passionate about creating web and mobile appli
 
 - 📚 **Continuous Learner**: The tech world evolves rapidly, and I'm committed to staying updated and learning new technologies.
 
+## 🧑🏻‍💻 Freelance Experience
+
+- 💡 **Built Sakedes**: Last year I built my own freelance web design agency [sakedes](https://sakedes.netlify.app/)
+
 ## 📬 Let's Connect!
 
 I'm always open to exciting opportunities, collaborations, or just a friendly chat. Feel free to reach out to me via [email](saket.aryanr64x@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-saket-a18207223/)!
