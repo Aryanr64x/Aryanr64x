@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aryan Saket
 
-Full Stack Web and Mobile Developer 🚀
+Full Stack Web and Mobile Developer 🚀 | Upcoming Intern At NPCI 
 
 Welcome to my GitHub profile! I'm passionate about creating web and mobile applications that not only look great but also deliver exceptional user experiences. With expertise in various technologies, I'm always eager to explore new opportunities and collaborate on exciting projects.You can check my portfolio  [here](https://aryansaket.netlify.app).  Here's a glimpse of what I bring to the table:
 
